@@ -71,7 +71,7 @@ the certificate.
 [Python](python/connecting-ssl.py) |
 [Java](java/src/main/java/com/couchbase/devguide/ConnectingSsl.java) |
 .NET |
-Go |
+[Go](go/connecting-ssl.go] |
 node.js |
 [PHP](php/connecting-ssl.php)
 
